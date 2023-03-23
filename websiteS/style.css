@@ -9,6 +9,7 @@
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.png);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     position: relative;
 }
 nav{
@@ -287,6 +288,7 @@ h3{
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/banner2.jpg);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     border-radius: 10px;
     text-align: center;
     padding: 100px 0;
